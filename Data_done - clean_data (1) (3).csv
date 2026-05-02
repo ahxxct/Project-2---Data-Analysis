@@ -1,0 +1,51 @@
+Age,Gender,Shopping_Frequency,shopping_frequency_num,Brand_Preference,brand_preference_num,Shopping_Method,shopping_method_num,Main_Factor,main_factor_num,Local_Price,Local_Price_num,Local_Quality,Local_Quality_num,Intl_Worth,Intl_Worth_num,Choice,choice_num,local_lower_price,local_better_quality,local_trendy_designs,local_better_fit,local_variety,local_experience,local_support_local,local_value,local_social_media,intl_durable,intl_better_quality,intl_trendy_designs,intl_better_fit,intl_variety,intl_experience,intl_trust,intl_brand_name,intl_value,intl_social_media
+18-24,Female,Every 3 months,3,Local brands,1,In-store,2,Quality,2,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,1,1,1,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,1
+18-24,Female,Monthly,4,Local brands,1,Online,1,Design/Style,3,More expensive,2,About the same,3,No,0,I would choose a cheaper local brand,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+18-24,Male,Every 3 months,3,Both equally,3,In-store,2,Price,1,More expensive,2,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18-24,Female,Monthly,4,Both equally,3,Both,3,Quality,2,Cheaper,1,Lower,1,Yes,1,I would choose a more expensive international brand,2,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0
+18-24,Male,Every 3 months,3,Both equally,3,Both,3,Quality,2,About the same price,3,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,1,0,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0
+18-24,Female,Monthly,4,Both equally,3,Both,3,Design/Style,3,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+18-24,Male,Rarely,1,Local brands,1,In-store,2,Price,1,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18-24,Female,Every season,2,Both equally,3,In-store,2,Quality,2,More expensive,2,Higher,2,No,0,I would choose a cheaper local brand,1,0,1,1,1,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0
+18-24,Female,Every 3 months,3,Both equally,3,Both,3,Quality,2,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0
+18-24,Male,Rarely,1,Local brands,1,In-store,2,Design/Style,3,About the same price,3,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0
+18-24,Female,Every 3 months,3,Local brands,1,Online,1,Design/Style,3,Cheaper,1,Lower,1,No,0,I would choose a more expensive international brand,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+18-24,Female,Every season,2,Local brands,1,Online,1,Design/Style,3,About the same price,3,About the same,3,No,0,I would choose a cheaper local brand,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+18-24,Male,Every season,2,Local brands,1,Both,3,Quality,2,About the same price,3,About the same,3,No,0,I would choose a cheaper local brand,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+18-24,Male,Every 3 months,3,Both equally,3,Online,1,Design/Style,3,Cheaper,1,Lower,1,Yes,1,I would choose a more expensive international brand,2,1,0,0,0,0,0,1,0,1,0,1,1,1,1,0,1,1,0,0
+18-24,Male,Every season,2,Both equally,3,Both,3,Design/Style,3,Cheaper,1,Higher,2,Yes,1,I would choose a more expensive international brand,2,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+18-24,Male,Every season,2,International brands,2,In-store,2,Design/Style,3,More expensive,2,Lower,1,Yes,1,I would choose a cheaper local brand,1,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0
+18-24,Male,Every season,2,Both equally,1,Both,3,Quality,2,About the same price,3,About the same,3,No,0,I would choose a cheaper local brand,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0
+18-24,Male,Every 3 months,3,Both equally,1,Both,3,Quality,2,More expensive,2,Lower,1,Yes,1,I would choose a more expensive international brand,2,0,1,0,1,0,0,1,0,0,0,1,0,1,1,0,1,1,0,0
+18-24,Male,Every 3 months,3,Both equally,1,In-store,2,Price,1,Cheaper,1,Lower,1,Yes,1,I would choose a cheaper local brand,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+18-24,Female,Every 3 months,3,Both equally,1,Both,3,Design/Style,3,About the same price,3,About the same,3,No,0,I would choose a cheaper local brand,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+18-24,Male,Every 3 months,3,Both equally,1,In-store,2,Design/Style,3,About the same price,3,Lower,1,No,0,I would choose a cheaper local brand,1,1,1,0,1,1,0,1,0,0,0,1,0,1,1,0,1,0,0,0
+18-24,Male,Every season,2,Both equally,1,Both,3,Price,1,More expensive,2,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0
+18-24,Male,Every season,2,Both equally,1,In-store,2,Brand name,4,About the same price,3,Lower,1,Yes,1,I would choose a cheaper local brand,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+18-24,Female,Monthly,4,Both equally,1,Online,1,Quality,2,More expensive,2,Lower,1,Yes,1,I would choose a more expensive international brand,2,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0
+18-24,Female,Monthly,4,Both equally,1,Both,3,Design/Style,3,About the same price,3,About the same,3,No,0,I would choose a cheaper local brand,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+18-24,Female,Every 3 months,3,International brands,2,Both,3,Design/Style,3,Cheaper,1,About the same,3,Yes,1,I would choose a cheaper local brand,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+18-24,Female,Every season,2,Both equally,3,In-store,2,Quality,2,More expensive,2,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,1,1,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1
+18-24,Female,Every 3 months,3,Local brands,1,Both,3,Quality,2,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18-24,Female,Every season,2,International brands,2,In-store,2,Design/Style,3,More expensive,2,About the same,3,No,0,I would choose a cheaper local brand,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+18-24,Female,Every season,2,Both equally,3,Both,3,Quality,2,More expensive,2,Lower,1,No,0,I would choose a cheaper local brand,1,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,0
+18-24,Male,Rarely,1,Local brands,1,In-store,2,Quality,2,About the same price,3,About the same,3,No,0,I would choose a cheaper local brand,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+18-24,Male,Rarely,1,Local brands,1,In-store,2,Quality,2,Cheaper,1,Lower,1,No,0,I would choose a cheaper local brand,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18-24,Female,Every season,2,Local brands,1,In-store,2,Price,1,About the same price,3,Lower,1,Yes,1,I would choose a cheaper local brand,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+18-24,Female,Every season,2,International brands,2,Both,3,Quality,2,Cheaper,1,Lower,1,Yes,1,I would choose a cheaper local brand,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+18-24,Male,Monthly,4,Both equally,3,Both,3,Quality,2,Cheaper,1,Lower,1,Yes,1,I would choose a cheaper local brand,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18-24,Male,Monthly,4,Both equally,3,Both,3,Design/Style,3,Cheaper,1,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,0
+18-24,Female,Every season,2,Both equally,3,Both,3,Design/Style,3,About the same price,3,About the same,3,No,0,I would choose a more expensive international brand,2,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+18-24,Female,Monthly,4,International brands,2,In-store,2,Brand name,4,More expensive,2,Lower,1,No,0,I would choose a cheaper local brand,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+18-24,Female,Monthly,4,Both equally,3,Both,3,Design/Style,3,About the same price,3,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0
+18-24,Male,Every season,2,Both equally,3,In-store,2,Design/Style,3,Cheaper,1,Lower,1,No,0,I would choose a cheaper local brand,1,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+18-24,Female,Monthly,4,Local brands,1,Online,1,Price,1,About the same price,3,About the same,3,Yes,1,I would choose a cheaper local brand,1,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+18-24,Female,Monthly,4,Both equally,3,Both,3,Design/Style,3,About the same price,3,About the same,3,Yes,1,I would choose a cheaper local brand,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+18-24,Female,Every 3 months,3,Local brands,3,Both,3,Design/Style,3,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0
+18-24,Female,Every season,2,International brands,2,Both,3,Design/Style,3,About the same price,3,Lower,1,Yes,1,I would choose a cheaper local brand,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,1
+18-24,Female,Every season,2,Local brands,1,Both,3,Design/Style,3,Cheaper,1,About the same,3,No,0,I would choose a cheaper local brand,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+18-24,Female,Monthly,4,Local brands,1,Online,1,Quality,2,About the same price,3,About the same,3,Yes,1,I would choose a cheaper local brand,1,0,1,0,1,0,0,1,0,1,0,1,1,1,0,0,1,0,0,0
+18-24,Male,Rarely,1,International brands,2,Both,3,Price,1,More expensive,2,Lower,1,Yes,1,I would choose a cheaper local brand,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+18-24,Male,Monthly,2,Local brands,1,Both,3,Quality,2,More expensive,2,Higher,2,No,0,I would choose a cheaper local brand,1,0,1,1,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,1
+18-24,Male,Every 3 months,3,Both equally,3,Both,3,Quality,2,Cheaper,1,Higher,2,Yes,1,I would choose a cheaper local brand,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+18-24,Male,Every season,2,Local brands,1,In-store,2,Quality,2,Cheaper,1,Lower,1,No,0,I would choose a cheaper local brand,1,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
