@@ -18,8 +18,8 @@ The dataset contains survey responses collected from university students aged be
 
 ## Project Files:
 
-* **Data_done - clean_data.csv** → Cleaned dataset used for analysis
-* **Local_vs_International.ipynb** → Jupyter Notebook with data analysis and visualization
+* **DataSet.csv** → dataset used for analysis
+* **Local_vs_Internationa.ipynb** → Jupyter Notebook with data analysis and visualization
 * **Report data sense.pdf** → Final report explaining insights and conclusions
 
 ## Key Insights:
